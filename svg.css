@@ -1,0 +1,11 @@
+svg {
+
+fill-opacity: 0;
+transition: fill-opacity 5s;
+stroke:black;
+stroke-width:2;
+}
+
+.finished  {
+	fill-opacity: 1;
+}
